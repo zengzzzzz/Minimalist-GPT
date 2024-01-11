@@ -21,7 +21,7 @@ The code is organized into the following main components:
 
 ## Requirements
 
-torch
+torch<br>
 graphviz
 
 ## Usage
